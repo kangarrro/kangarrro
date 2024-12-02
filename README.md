@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kangarrro
-- 👀 I’m interested in Frontend & Deep Learning
+- 👀 I’m interested in Backend & Computer System
 - 🌱 I’m currently learning Computer Language & Cumputer Scienece 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : my email -> woojinwork16@gmail.com 
